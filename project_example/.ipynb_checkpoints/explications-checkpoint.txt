@@ -1,0 +1,6 @@
+# Projet Volonté du D
+
+- Scraping avec class Retriever
+explications.............
+- Processing avec processor
+explications........
